@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-support-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot for customer support using Node.js and Twilio API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twilio": "^3.67.0"
+  }
+}
